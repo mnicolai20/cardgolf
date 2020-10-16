@@ -1,0 +1,42 @@
+#fullPage{
+    background-image: url("https://golfadvisor.brightspotcdn.com/dims4/default/f94b337/2147483647/strip/true/crop/2982x1781+70+0/resize/1440x860!/format/jpg/quality/90/?url=https%3A%2F%2Fgolfadvisor.brightspotcdn.com%2F65%2Fa7%2F816924775f304d614164e41d4296%2Fp.php");
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+}
+
+#intro{
+    text-align: center;
+    color: black;
+    text-decoration: underline;
+}
+
+#playerSubmit{
+    background-color: darkgreen;
+}
+
+#newGuy{
+    color: white;
+    padding-left: 45%;
+}
+
+ .heading2{
+     color: black;
+     text-align: center;
+     margin-top: 2%;
+     text-decoration: underline;
+ }
+
+ .container{
+     background-color: rgba(0, 128, 0, 0.5);
+     
+ }
+
+ .golferList{
+    color: white;
+    list-style-type: circle;
+    text-align: center;
+}
